@@ -1,0 +1,3 @@
+This project is a simple cpp project to do lzw compression.
+lencode.cpp is to encode the text to .lzw file.
+ldecode.cpp is decode .lzw file back to text.
